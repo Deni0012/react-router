@@ -72,3 +72,8 @@ nav a.active::after {
   line-height: 1.6;
   flex-grow: 1;
 }
+
+.details-product {
+  margin: 1rem;
+  color: #0098fe;
+}
